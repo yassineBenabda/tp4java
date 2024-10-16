@@ -4,7 +4,7 @@ public class dict {
 	
 	motdict[] dict;
 	private String nom;
-    private int nb_mots;
+	private int nb_mots;
 
     public dict(String nom, int taille) {
         dict = new motdict[taille]; 
